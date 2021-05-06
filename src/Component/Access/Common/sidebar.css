@@ -1,0 +1,78 @@
+.nav {
+  background: #fcfbff;
+  width: 310px;
+  height: 1808px;
+}
+
+.mysite {
+  position: absolute;
+  width: 100px;
+  height: 21.31px;
+  left: 80px;
+  top: 26px;
+}
+
+.subtract {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 27px;
+  top: 17px;
+}
+
+.nav-item {
+  padding-top: 38px;
+}
+
+.dashboard {
+  margin-left: 34.5px;
+  padding-right: 26.5px;
+}
+
+.org {
+  margin-left: 36px;
+  padding-right: 26.5px;
+}
+
+.access {
+  margin-left: 33.5px;
+  padding-right: 26.5px;
+}
+
+.nav-item-active {
+  padding-top: 15px;
+  width: 310px;
+  height: 58px;
+  background: #e1d8f1;
+  vertical-align: middle;
+  margin-top: 24px;
+  padding-bottom: 22px;
+}
+
+.active {
+  color: rgba(103, 58, 183, 1);
+}
+
+.corner {
+  position: relative;
+  bottom: 1780px;
+  left: 1634px;
+}
+
+.oval {
+  padding-right: 17px;
+}
+
+.notifications {
+  padding-left: 43px;
+}
+
+.help {
+  padding-left: 37px;
+}
+
+.left-letter {
+  color: #828282;
+  font-style: normal;
+  font-weight: normal;
+}

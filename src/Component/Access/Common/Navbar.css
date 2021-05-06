@@ -1,0 +1,46 @@
+.hnavbutton {
+  padding-right: 20px;
+  padding-left: 10.33px;
+}
+
+.hnav {
+  position: relative;
+  bottom: 1727px;
+  left: 358.33px;
+  padding-bottom: 13px;
+  border-bottom: 1px solid rgba(207, 211, 218, 0.5);
+  width: 1600px;
+}
+
+.sync {
+  position: relative;
+  bottom: 1769px;
+  left: 1630.5px;
+}
+
+.syncicon {
+  padding-right: 14.5px;
+}
+
+.permissions {
+  padding-right: 10.33px;
+}
+
+.hnavbutton.p {
+  padding-bottom: 13px;
+  border-bottom: 5px solid #673ab7;
+  border-radius: 10px 10px 0px 0px;
+  color: #673ab7;
+}
+
+.approval {
+  padding-right: 4.25px;
+  padding-left: 18.25px;
+}
+
+.letter-approval {
+  padding-left: 11.25px;
+  color: #333333;
+  font-style: normal;
+  font-weight: normal;
+}
